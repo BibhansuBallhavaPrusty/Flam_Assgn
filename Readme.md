@@ -29,4 +29,4 @@ Then plot `(x(t), y(t))` as a parametric curve in Desmos.
 Mean L1 distance = 25.401  
 RMSE (2D) = 22.682
 
-*Artifacts in this folder:* `xy_data.csv`, `fit_plot.png`, `fit_fit.py` (optional), and this README.
+*Artifacts in this folder:* `xy_data.csv`, `fit_plot.png`, `fit_fit.py`, and this README.
